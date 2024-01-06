@@ -1,0 +1,8 @@
+run backend: cd WeWebAppGradePredictionSystem
+activate vitual environment: grade/Scripts/activate
+
+run backend: flask run
+
+
+
+run frontend: cd frontend and npm start.
